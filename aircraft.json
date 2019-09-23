@@ -25,6 +25,7 @@
     "72S":{"manufacturer":"Boeing","model":"727-200","name":{"en":"Boeing 727-200 Adv.","ru":"Боинг 727-200 Продвинутый"}},
     "72X":{"manufacturer":"Boeing","model":"727-100F","name":{"en":"Boeing 727-100 Freighter","ru":"Боинг 727-100 Грузовой"}},
     "72Y":{"manufacturer":"Boeing","model":"727-200F","name":{"en":"Boeing 727-200 Freighter","ru":"Боинг 727-200 Грузовой"}},
+    "73B":{"manufacturer":"Boeing","model":"737-300","name":{"en":"Boeing 737-300","ru":"Боинг 737-300"}},
     "73C":{"manufacturer":"Boeing","model":"737-300","name":{"en":"Boeing 737-300 with winglets","ru":"Боинг 737-300 (с винглетами)"}},
     "73E":{"manufacturer":"Boeing","model":"737-500","name":{"en":"Boeing 737-500 with winglets","ru":"Боинг 737-500 (с винглетами)"}},
     "73F":{"manufacturer":"Boeing","model":"737F","name":{"en":"Boeing 737 Freighter","ru":"Боинг 737 Грузовой"}},
